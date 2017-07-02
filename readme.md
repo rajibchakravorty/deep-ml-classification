@@ -35,6 +35,8 @@ The definition of deep CNN architecture## Deep Learning for classification of CI
 ##### test.py
 Code to run the trained network on the trained weights
 
+NOTE:Install GIT LFS to access pre-trained network weights.
+
 #### Highlights
 
 1. Achieves 79.1% accuracy on the test data-this is very close to the validation performance
